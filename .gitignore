@@ -1,0 +1,8 @@
+venv
+Reversed_limerick_model
+Reversed_limerick_tokenizer
+results
+*.pyc
+__pycache__/
+.DS_Store
+*.json
